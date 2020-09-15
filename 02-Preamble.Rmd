@@ -12,13 +12,13 @@
     in the known universe.
     -Michio Kaku
 
-Cognitive neuroscientists have the privilege to study the most complex organ known in nature. The hardship in understanding the brain is quite likely as great as its complexity. Cognitive neurosciences do not just rely on common intuition (often misconstrued) but on hard thought and tested theories and frameworks. Some perished, some survive, and all benefit from a highest standard of scientific methods and integrity. Because good science is hard, it can feel personal at times due to how much investment you have to put in, but it is important to remain humble and realize that if  scientists are after not just reality but truth itself, such endeavor necessarily stands far beyond personal achievements and egoes. 
+Cognitive neuroscientists have the privilege to study the most complex organ known in nature. The hardship in understanding the brain is quite likely as great as its complexity. Cognitive neurosciences do not just rely on common intuition (often misconstrued) but on hard thought and tested theories and frameworks. Some perish, some survive, and all benefit from the highest standard of scientific method and integrity. Because good science is hard, it can feel personal at times due to how much investment you have to put in, but it is important to remain humble and realize that if scientists are after (not just reality but) truth itself, such endeavor necessarily stands far beyond personal achievements and egoes.
 
 **Scientific vision**
 
 To gain deeper mechanistic insights on how the human mind conceives time the way it does. The dynamic scales at which neural computations operate can be conceived as a chronoarchitecture. The notion of chronoarchitecture emphasizes that dynamic properties of neural activity do not solely reflect adaptive changes, but also dynamic constraints, that provide stability for a thinking and feeling mind to emerge.
 
-Our theoretical and empirical approach considers both endogenous (oscillatory regimes, prediction, culture) and exogenous (temporal statistics of sensory inputs, body movements) factors to be essential for temporal cognition. 
+Our theoretical and empirical approach considers factors that are endogenous (oscillatory regimes, prediction, culture) and exogenous (temporal statistics of sensory inputs, body movements) factors to be essential for temporal cognition. 
 
 Our scientific work uses tools from traditional experimental psychology (psychophysics, questionnaires) combined with state-of-the-art neuroimaging techniques (MEG, EEG, fMRI), signal processing methods (spectral and time-frequency analyses, source estimation, cross-frequency coupling, functional connectivity) and model-based neuroimaging (mTRF, decoding). 
 
@@ -38,9 +38,7 @@ Integrity: everyone must follow strict institutional, scientific, and ethical gu
 
 Excellence: we strive for the highest quality of scientific research from the theoretical formulation of a question to the minute experimental details.
 
-Creativity: 
-
-Perseverance: finish whatever you started, whether it leads to failed experiment or to a new discovery. You need an end to begin again.
+Perseverance: finish whatever you started, whether it leads to a failed experiment or to a new discovery. You need an end to begin again.
 
 **Scientific Integrity**
 
@@ -48,4 +46,4 @@ Replicability, ....
 
 **Open Science**
 
-Open science comes with goods and bads. The goods is collaborative, the bads is that in an ever increasing competitive access to funds and support, it makes it easy for your competition.
+Open science comes with goods and bads. The goods is collaborative, the bad is: in an ever increasing competitive access to funds and support, it makes it easy for your competition.

@@ -10,7 +10,7 @@ Asking others for support, providing support, caring about our colleagues’ mat
 
 Diversity and multiculturality are pillars of science. They are indispensable for the healthy functioning of any team. We are aware that we live in a world that is far from being free of discrimination, but we actively work towards awareness to, and elimination of, sexism, racism, or any other aspect of discrimination in our interactions. 
 
-If there are any personal or inter-personal issues in the team, please speak to us about it. You can also approach Vanna (giovanna.santoro@cea.fr) to discuss any problem, and Isabelle Denghien (isabelle.denghien@cea.fr), who is the official referent person for personal safety including issues related to harassment. 
+If there are any personal or inter-personal issues in the team, please speak to us about it. You can also approach [Vanna](giovanna.santoro@cea.fr) to discuss any problem, and [Isabelle Denghien](isabelle.denghien@cea.fr), who is the official referent person for personal safety including issues related to harassment. 
 
 You are here to join us in every aspect of the exciting endeavour to better understand the human brain and mind! We foster curiosity, enthusiasm, questioning, motivation, reading as much as one can, telling each other where we may be wrong, and learning what we do not know. Science thrives on lively discussions that constantly evolve, new insights, and constant adjustments in our thinking. 
 
@@ -76,15 +76,15 @@ You will conduct all stages of the project, including narrowing down the initial
 
 The direction of your work will be initially construed with your advisors, but you are progressively expected to raise to intellectual autonomy, both theoretically and empirically! In fact, you should become the best expert in the team on your own topic. If all goes well, you will get to start working in collaboration with the master students and start learning how to transmit the how tos, work solo but also in a team. 
 
-You are in charge of documenting your work.
+**You are in charge of documenting your work.**
 
 
 *What you can expect from us*
 
 You can expect from us: 
-- guidance at all stages of your prohect: from theinitial question, to the paradigmatic approach, the relevant literature, etc
+- guidance at all stages of your project: from the initial question, to the paradigmatic approach, relevant literature, etc
 - help you reach a reasonable working example code and help with debugging, provide analysis feedback
 - discussions, brainstorming, and interpretations of your results
-- feedback on your presentations (slides and report)
+- feedback on your presentations (slides and reports)
 - weekly one-to-one meeting (more if needed, less if needed)
 - weekly group meeting to gather more feedback
