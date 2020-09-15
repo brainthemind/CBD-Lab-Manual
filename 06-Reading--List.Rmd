@@ -1,0 +1,66 @@
+
+# Reading List
+
+https://www.nobelprizemedicine.org/selecting-laureates/history/the-nobel-prizes-in-the-field-of-neuroscience/#:~:text=The%20Nobel%20Prizes%20in%20the%20field%20of%20neuroscience%2Dfrom%20Camillo,Moser%20and%20Edvard%20I%20Moser&text=No%20less%20than%2017%20Nobel,no%20less%20than%2040%20laureates.
+
+#Cognitive Neuroscience# 
+
+*Krakauer, J. W., Ghazanfar, A. A., Gomez-Marin, A., MacIver, M. A., & Poeppel, D. (2017). Neuroscience needs behavior: correcting a reductionist bias. Neuron, 93(3), 480-490.
+
+#Cognition# 
+
+*Marr
+*
+
+
+#Neuroscience# 
+
+_Arguments for neural oscillations_
+
+*Buzsaki, G. (2006). Rhythms of the Brain. Oxford University Press.
+*Buzsáki, G. (2010). Neural syntax: cell assemblies, synapsembles, and readers. Neuron, 68(3), 362-385.
+
+*Fries, P. (2015). Rhythms for cognition: communication through coherence. Neuron, 88(1), 220-235.
+
+*Lakatos, P., Gross, J., & Thut, G. (2019). A new unifying account of the roles of neuronal entrainment. Current Biology, 29(18), R890-R905.
+
+*Schroeder, C. E., & Lakatos, P. (2009). Low-frequency neuronal oscillations as instruments of sensory selection. Trends in neurosciences, 32(1), 9-18.
+
+*Wang, X. J. (2010). Neurophysiological and computational principles of cortical rhythms in cognition. Physiological reviews, 90(3), 1195-1268.
+
+_Arguments against neural oscillations_
+
+
+#Methods # 
+_Psychophysics_
+
+_EEG_
+
+_MEG_
+
+_Neuroimaging_
+
+some criticims 
+
+_Timing_
+*van Wassenhove, V., Herbst, S. K., & Kononowicz, T. W. (2019). Timing the Brain to Time the Mind: Critical Contributions of Time-Resolved Neuroimaging for Temporal Cognition. Magnetoencephalography: From Signals to Dynamic Cortical Networks, 855-905.
+
+
+
+#Seminal papers on timing # 
+
+Selection of resources, networking, paper database: http://timingforum.org/
+
++Treisman, M. (1963). Temporal discrimination and the indifference interval: Implications for a model of the" internal clock". Psychological Monographs: General and Applied, 77(13), 1.  
+
++Buhusi, C. V., & Meck, W. H. (2005). What makes us tick? Functional and neural mechanisms of interval timing. Nature reviews neuroscience, 6(10), 755.
+
++Allman, M. J., Teki, S., Griffiths, T. D., & Meck, W. H. (2014). Properties of the internal clock: first-and second-order principles of subjective time. Annual review of psychology, 65, 743-771.
+
++Large, E. W., & Jones, M. R. (1999). The dynamics of attending: How people track time-varying events. Psychological review, 106(1), 119.
+
+
+Miall, C. (1989). The storage of time intervals using oscillating neurons. Neural Computation, 1(3), 359-371.
+
+
+
