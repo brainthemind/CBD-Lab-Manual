@@ -51,7 +51,7 @@ Slack [Cognition & Brain Dynamics]
 Google Drive[Cognition & Brain Dynamics]  
 Google Hangout  
 Zoom  
-Dropbox  
+  
 
 _**To open science**_:  
 [github](https://github.com/brainthemind)  
