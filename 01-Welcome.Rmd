@@ -5,7 +5,7 @@ output:
 ---
 # Welcome to the Cognition & Brain Dynamics lab! 
 
-If you are reading this lab manual, you have likely just joined us recently so welcome! 
+If you are reading this lab manual, you have likely just joined the lab recently so welcome! 
 
 If you are a current member, please, frequently refer to it for updated contents and if you have suggestions for improvement or new stuff, please let the PIs know or bring it up during our next meeting!
 
