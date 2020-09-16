@@ -1,19 +1,19 @@
 
 # Reading List
 
-https://www.nobelprizemedicine.org/selecting-laureates/history/the-nobel-prizes-in-the-field-of-neuroscience/#:~:text=The%20Nobel%20Prizes%20in%20the%20field%20of%20neuroscience%2Dfrom%20Camillo,Moser%20and%20Edvard%20I%20Moser&text=No%20less%20than%2017%20Nobel,no%20less%20than%2040%20laureates.
+[Nobel Prizes in Neuroscience](https://www.nobelprizemedicine.org/selecting-laureates/history/the-nobel-prizes-in-the-field-of-neuroscience/#:~:text=The%20Nobel%20Prizes%20in%20the%20field%20of%20neuroscience%2Dfrom%20Camillo,Moser%20and%20Edvard%20I%20Moser&text=No%20less%20than%2017%20Nobel,no%20less%20than%2040%20laureates).
 
-#Cognitive Neuroscience# 
+**Cognitive Neuroscience**
 
 *Krakauer, J. W., Ghazanfar, A. A., Gomez-Marin, A., MacIver, M. A., & Poeppel, D. (2017). Neuroscience needs behavior: correcting a reductionist bias. Neuron, 93(3), 480-490.
 
-#Cognition# 
+**Cognition**
 
 *Marr
 *
 
 
-#Neuroscience# 
+**Neuroscience** 
 
 _Arguments for neural oscillations_
 
@@ -31,7 +31,7 @@ _Arguments for neural oscillations_
 _Arguments against neural oscillations_
 
 
-#Methods # 
+**Methods**
 _Psychophysics_
 
 _EEG_
@@ -47,7 +47,7 @@ _Timing_
 
 
 
-#Seminal papers on timing # 
+**Seminal papers on timing** 
 
 Selection of resources, networking, paper database: http://timingforum.org/
 

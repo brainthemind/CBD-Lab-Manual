@@ -43,6 +43,9 @@ For 2020-21, the organizer is Harish.
 Please ask [Vanna](giovanna.santoro@cea.fr) for this information.
 
 **Tools**
+Psychtoolbox
+Stimuli
+Learn R / Matlab / Python
 
 _**To communicate and share**_: 
 Please ask a PI to be added to these channels
