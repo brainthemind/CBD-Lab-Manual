@@ -1,4 +1,4 @@
-# Preamble
+# Core Values
 
     The Brain - is wider than the Sky -
     For - put them side by side -
@@ -12,7 +12,7 @@
     in the known universe.
     -Michio Kaku
 
-Cognitive neuroscientists have the privilege to study the most complex organ known in nature. The hardship in understanding the brain is quite likely as great as its complexity. Cognitive neurosciences do not just rely on common intuition (often misconstrued) but on hard thought and tested theories and frameworks. Some perish, some survive, and all benefit from the highest standard of scientific method and integrity. Because good science is hard, it can feel personal at times due to how much investment you have to put in, but it is important to remain humble and realize that if scientists are after (not just reality but) truth itself, such endeavor necessarily stands far beyond personal achievements and egoes.
+Cognitive neuroscientists have the privilege to study the most complex organ known in nature. The hardship in understanding the brain is quite likely as great as its complexity. Cognitive neurosciences do not just rely on common intuition (often misconstrued) but on hard thought and empirically tested theories and frameworks. Some theories perish, some survive, and all benefit from the highest standard of scientific method and integrity. Because good science is hard, it can feel personal at times due to how much investment you have to put in, but it is important to remain humble and realize that if scientists are after (not just reality but) truth itself, such endeavor necessarily stands far beyond personal achievements and egoes.
 
 **Scientific vision**
 
@@ -34,15 +34,15 @@ We try to foster collaborative opportunities that can be fundamental, multidisci
 
 **Collegiality:** we strive to make the lab a give-give place in which we all learn from each other, irrespective of experience level. Science is hard enough, foster being constructive and collaborative, not destructive and competitive!
 
+**Diversity:** different cultural, social, and educational backgrounds define the scientific community. We try our best to reflect this diversity at the level of the team and constantly train ourselves to overcome existing structural and cognitive biases.  
+
 **Integrity:** everyone must follow strict institutional, scientific, and ethical guidelines. No exception, no discussion. 
 
 **Excellence:** we strive for the highest quality of scientific research from the theoretical formulation of a question to the minute experimental details.
 
-**Perseverance**: finish whatever you started, whether it leads to a failed experiment or to a new discovery. You need an end to begin again.
+**Perseverance:** finish whatever you started, whether it leads to a failed experiment or to a new discovery. You need an end to begin again.
 
-**Scientific Integrity**
-We strive to improve our scientific methods and practice every day. 
-We ask you to do your best to prevent errors, double check your code and results, avoid common statistical fallacies, and take responsibility for your work. 
-Please check the page dedicated to Good scientific practice for more details.  
+**Scientific Integrity:** in science, we never stop learning, and improve our scientific methods and practice every day. Errors do happen to everyone -- we have to be vigilant, question and double-check our results, and train ourselves to avoid common falacies. 
+Everyone has to take responsibility for their work, and we expect you to be honest, also about limitations and errors. 
 
-**Open Science**
+**Open Science:** replicability is key for scientific discoveries, and there are many benefits from openly sharing code and data. This requires careful acknowledgement of individual contributions, and a will hopefully change the metrics we use to quantify scientific excellence. 
