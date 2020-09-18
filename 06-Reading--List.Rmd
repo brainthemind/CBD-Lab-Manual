@@ -5,20 +5,20 @@
 
 **Cognitive Neuroscience**
 
-*[The Cognitive Neuorsciences, currently sixth edition edited by David Poeppel, George R. Mangun and Michael S. Gazzaniga] (https://mitpress.mit.edu/books/cognitive-neurosciences-sixth-edition)
+* [The Cognitive Neuorsciences, currently sixth edition edited by David Poeppel, George R. Mangun and Michael S. Gazzaniga] (https://mitpress.mit.edu/books/cognitive-neurosciences-sixth-edition)
 
-*Krakauer, J. W., Ghazanfar, A. A., Gomez-Marin, A., MacIver, M. A., & Poeppel, D. (2017). Neuroscience needs behavior: correcting a reductionist bias. Neuron, 93(3), 480-490.
+* Schnupp, J., Nelken, I., & King, A. (2011). Auditory neuroscience: Making sense of sound. MIT press.
 
-*Schnupp, J., Nelken, I., & King, A. (2011). Auditory neuroscience: Making sense of sound. MIT press.
-
+* Krakauer, J. W., Ghazanfar, A. A., Gomez-Marin, A., MacIver, M. A., & Poeppel, D. (2017). Neuroscience needs behavior: correcting a reductionist bias. Neuron, 93(3), 480-490.
 
 **Cognition**
 
-*David Marr (1982), Vision: A Computational Investigation into the Human Representation and Processing of Visual Information.
+* David Marr (1982), Vision: A Computational Investigation into the Human Representation and Processing of Visual Information.
 
-*Wiliam James, The Principles of Psychology (1890)
+* [Wiliam James, The Principles of Psychology (1890), chapters 11, 15] (http://psychclassics.yorku.ca/James/Principles/index.htm)
 
 _Short introduction to philosophy of mind_
+
 Westphal, J. (2016). The mind–body problem. MIT Press.
 
 
@@ -26,16 +26,16 @@ Westphal, J. (2016). The mind–body problem. MIT Press.
 
 _Arguments for neural oscillations_
 
-*Buzsaki, G. (2006). Rhythms of the Brain. Oxford University Press.
-*Buzsáki, G. (2010). Neural syntax: cell assemblies, synapsembles, and readers. Neuron, 68(3), 362-385.
+* Buzsaki, G. (2006). Rhythms of the Brain. Oxford University Press.
+* Buzsáki, G. (2010). Neural syntax: cell assemblies, synapsembles, and readers. Neuron, 68(3), 362-385.
 
-*Fries, P. (2015). Rhythms for cognition: communication through coherence. Neuron, 88(1), 220-235.
+* Fries, P. (2015). Rhythms for cognition: communication through coherence. Neuron, 88(1), 220-235.
 
-*Schroeder, C. E., & Lakatos, P. (2009). Low-frequency neuronal oscillations as instruments of sensory selection. Trends in neurosciences, 32(1), 9-18.
+* Schroeder, C. E., & Lakatos, P. (2009). Low-frequency neuronal oscillations as instruments of sensory selection. Trends in neurosciences, 32(1), 9-18.
 
-*Lakatos, P., Gross, J., & Thut, G. (2019). A new unifying account of the roles of neuronal entrainment. Current Biology, 29(18), R890-R905.
+* Lakatos, P., Gross, J., & Thut, G. (2019). A new unifying account of the roles of neuronal entrainment. Current Biology, 29(18), R890-R905.
 
-*Wang, X. J. (2010). Neurophysiological and computational principles of cortical rhythms in cognition. Physiological reviews, 90(3), 1195-1268.
+* Wang, X. J. (2010). Neurophysiological and computational principles of cortical rhythms in cognition. Physiological reviews, 90(3), 1195-1268.
 
 _Arguments against neural oscillations_
 
@@ -44,11 +44,11 @@ _Arguments against neural oscillations_
 
 _Overview_
 
-*van Wassenhove, V., Herbst, S. K., & Kononowicz, T. W. (2019). Timing the Brain to Time the Mind: Critical Contributions of Time-Resolved Neuroimaging for Temporal Cognition. Magnetoencephalography: From Signals to Dynamic Cortical Networks, 855-905.
+* van Wassenhove, V., Herbst, S. K., & Kononowicz, T. W. (2019). Timing the Brain to Time the Mind: Critical Contributions of Time-Resolved Neuroimaging for Temporal Cognition. Magnetoencephalography: From Signals to Dynamic Cortical Networks, 855-905.
 
-*Buonomano, D. (2017). Your brain is a time machine: The neuroscience and physics of time. WW Norton & Company.
+* Buonomano, D. (2017). Your brain is a time machine: The neuroscience and physics of time. WW Norton & Company.
 
-*Grondin, S. (2010). Timing and time perception: a review of recent behavioral and neuroscience findings and theoretical directions. Attention, Perception, & Psychophysics, 72(3), 561-582.
+* Grondin, S. (2010). Timing and time perception: a review of recent behavioral and neuroscience findings and theoretical directions. Attention, Perception, & Psychophysics, 72(3), 561-582.
 
 
 _Seminal papers on timing_
