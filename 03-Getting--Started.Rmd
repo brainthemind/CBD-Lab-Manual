@@ -105,17 +105,6 @@ If you think that we need a book, please bring it up during our lab meeting.
 Check the NeuroSpin wiki for ample information about IT infrastructure and contacts, and call the 33 from any landline phone in case of issues. Office materials can be found in room 2010 (?), opposite of the copy machine. 
 
 
-<!-- I didn't understand the purpose of this, therefore commented out-->
-<!-- **Acknowledgements** -->
-
-<!-- This work was funded by grant XXX to VvW and YYY to SH. -->
-
-<!-- UNIACT  -->
-
-<!-- This work was performed on a platform of France Life Imaging network partly funded by the grant “ANR-11-INBS-0006 ” or “Partly supported by FLI (ANR-11-INBS-0006)”. -->
-
-<!-- "This work has received funding support from the ERPT equipment program of the Leducq Foundation." -->
-
 **Outside the lab**
 
 [For orientation/ living in France/ language classes:] (https://www.science-accueil.org/)

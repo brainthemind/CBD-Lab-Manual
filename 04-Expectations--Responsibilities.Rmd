@@ -36,11 +36,21 @@ Errors happen. To all of us, over and over again. The first step is of course to
 
 **Intellectual ownership and representation of the team**
 
-Always acknowledge everyone who contributed to your work (including supervisors, engineers, post docs) on slides and reports. 
+Always acknowledge everyone who contributed to your work (including supervisors, engineers, post docs) on slides and reports. Authorship and order needs to be discussed with the project team. 
 
 Anything that leaves the lab (written reports, presentations, abstracts) has to be shown to the supervisors and co-authors before, leaving enough time for at least one round of revisions before the deadline. Big projects like papers and PhD theses need to be discussed and revised several times before submission. The earlier you send your work, the more and better feedback you will get.
 
 Cite all references you used and never copy sentences or passages from other people’s work, without explicitily acknowledging. Plagiarism will be sanctioned by your committee (worsen your grade up to leading to rejection of your work in bad cases) and the scientific community (rejection of your work with legal consequences in very bad cases). Plagiarism and intellectual dishonesty are a sure way to loose the trust and respect of your colleagues.
+
+**Acknowledge funding, and the UNIACT platform**
+
+Example snippets - replace by the actual grants: 
+
+GRANTS: This work was funded by grant ANR-18-CE22-0016 to VvW.
+
+UNIACT: This work was performed on a platform of France Life Imaging network partly funded by the grant “ANR-11-INBS-0006 ” or “Partly supported by FLI (ANR-11-INBS-0006)”.
+
+Also check the wiki: https://www.neurospin-wiki.org/pmwiki/Main/Affiliations-and-acknowlegments
 
 
 **Different stages of expertise**
