@@ -3,39 +3,43 @@
 
 [Nobel Prizes in Neuroscience](https://www.nobelprizemedicine.org/selecting-laureates/history/the-nobel-prizes-in-the-field-of-neuroscience/#:~:text=The%20Nobel%20Prizes%20in%20the%20field%20of%20neuroscience%2Dfrom%20Camillo,Moser%20and%20Edvard%20I%20Moser&text=No%20less%20than%2017%20Nobel,no%20less%20than%2040%20laureates).
 
+
 **Cognitive Neuroscience**
 
-* [The Cognitive Neuorsciences, currently sixth edition edited by David Poeppel, George R. Mangun and Michael S. Gazzaniga] (https://mitpress.mit.edu/books/cognitive-neurosciences-sixth-edition)
+[The Cognitive Neuorsciences, currently sixth edition edited by David Poeppel, George R. Mangun and Michael S. Gazzaniga](https://mitpress.mit.edu/books/cognitive-neurosciences-sixth-edition)
 
-* Schnupp, J., Nelken, I., & King, A. (2011). Auditory neuroscience: Making sense of sound. MIT press.
+Schnupp, J., Nelken, I., & King, A. (2011). Auditory neuroscience: Making sense of sound. MIT press.
 
-* Krakauer, J. W., Ghazanfar, A. A., Gomez-Marin, A., MacIver, M. A., & Poeppel, D. (2017). Neuroscience needs behavior: correcting a reductionist bias. Neuron, 93(3), 480-490.
+Krakauer, J. W., Ghazanfar, A. A., Gomez-Marin, A., MacIver, M. A., & Poeppel, D. (2017). Neuroscience needs behavior: correcting a reductionist bias. Neuron, 93(3), 480-490.
+
 
 **Cognition**
 
-* David Marr (1982), Vision: A Computational Investigation into the Human Representation and Processing of Visual Information.
+David Marr (1982), Vision: A Computational Investigation into the Human Representation and Processing of Visual Information.
 
-* [Wiliam James, The Principles of Psychology (1890), chapters 11, 15] (http://psychclassics.yorku.ca/James/Principles/index.htm)
+[Wiliam James, The Principles of Psychology (1890), chapters 11, 15](http://psychclassics.yorku.ca/James/Principles/index.htm)
 
-_Short introduction to philosophy of mind_
+Fodor, J. A. (1983). The modularity of mind. MIT press.
 
-Westphal, J. (2016). The mind–body problem. MIT Press.
+[Chomsky, N. (1959). A review of BF Skinner's Verbal Behavior. Language, 35(1), 26-58.](http://cogprints.org/1148/1/chomsky.htm)
+
+_Short introduction to philosophy of mind_: Westphal, J. (2016). The mind–body problem. MIT Press.
 
 
-**Neuroscience** 
+**Neuroscience**
 
 _Arguments for neural oscillations_
 
-* Buzsaki, G. (2006). Rhythms of the Brain. Oxford University Press.
-* Buzsáki, G. (2010). Neural syntax: cell assemblies, synapsembles, and readers. Neuron, 68(3), 362-385.
+Buzsaki, G. (2006). Rhythms of the Brain. Oxford University Press.
+Buzsáki, G. (2010). Neural syntax: cell assemblies, synapsembles, and readers. Neuron, 68(3), 362-385.
 
-* Fries, P. (2015). Rhythms for cognition: communication through coherence. Neuron, 88(1), 220-235.
+Fries, P. (2015). Rhythms for cognition: communication through coherence. Neuron, 88(1), 220-235.
 
-* Schroeder, C. E., & Lakatos, P. (2009). Low-frequency neuronal oscillations as instruments of sensory selection. Trends in neurosciences, 32(1), 9-18.
+Schroeder, C. E., & Lakatos, P. (2009). Low-frequency neuronal oscillations as instruments of sensory selection. Trends in neurosciences, 32(1), 9-18.
 
-* Lakatos, P., Gross, J., & Thut, G. (2019). A new unifying account of the roles of neuronal entrainment. Current Biology, 29(18), R890-R905.
+Lakatos, P., Gross, J., & Thut, G. (2019). A new unifying account of the roles of neuronal entrainment. Current Biology, 29(18), R890-R905.
 
-* Wang, X. J. (2010). Neurophysiological and computational principles of cortical rhythms in cognition. Physiological reviews, 90(3), 1195-1268.
+Wang, X. J. (2010). Neurophysiological and computational principles of cortical rhythms in cognition. Physiological reviews, 90(3), 1195-1268.
 
 _Arguments against neural oscillations_
 
@@ -44,11 +48,11 @@ _Arguments against neural oscillations_
 
 _Overview_
 
-* van Wassenhove, V., Herbst, S. K., & Kononowicz, T. W. (2019). Timing the Brain to Time the Mind: Critical Contributions of Time-Resolved Neuroimaging for Temporal Cognition. Magnetoencephalography: From Signals to Dynamic Cortical Networks, 855-905.
+van Wassenhove, V., Herbst, S. K., & Kononowicz, T. W. (2019). Timing the Brain to Time the Mind: Critical Contributions of Time-Resolved Neuroimaging for Temporal Cognition. Magnetoencephalography: From Signals to Dynamic Cortical Networks, 855-905.
 
-* Buonomano, D. (2017). Your brain is a time machine: The neuroscience and physics of time. WW Norton & Company.
+Buonomano, D. (2017). Your brain is a time machine: The neuroscience and physics of time. WW Norton & Company.
 
-* Grondin, S. (2010). Timing and time perception: a review of recent behavioral and neuroscience findings and theoretical directions. Attention, Perception, & Psychophysics, 72(3), 561-582.
+Grondin, S. (2010). Timing and time perception: a review of recent behavioral and neuroscience findings and theoretical directions. Attention, Perception, & Psychophysics, 72(3), 561-582.
 
 
 _Seminal papers on timing_
@@ -56,53 +60,53 @@ _Seminal papers on timing_
 Selection of resources, networking, paper database: http://timingforum.org/
 The team's publications: https://brainthemind.com/publications/
 
-* Treisman, M. (1963). Temporal discrimination and the indifference interval: Implications for a model of the" internal clock". Psychological Monographs: General and Applied, 77(13), 1.  
+Treisman, M. (1963). Temporal discrimination and the indifference interval: Implications for a model of the" internal clock". Psychological Monographs: General and Applied, 77(13), 1.  
 
-* Buhusi, C. V., & Meck, W. H. (2005). What makes us tick? Functional and neural mechanisms of interval timing. Nature reviews neuroscience, 6(10), 755.
+Buhusi, C. V., & Meck, W. H. (2005). What makes us tick? Functional and neural mechanisms of interval timing. Nature reviews neuroscience, 6(10), 755.
 
-* Allman, M. J., Teki, S., Griffiths, T. D., & Meck, W. H. (2014). Properties of the internal clock: first-and second-order principles of subjective time. Annual review of psychology, 65, 743-771.
+Allman, M. J., Teki, S., Griffiths, T. D., & Meck, W. H. (2014). Properties of the internal clock: first-and second-order principles of subjective time. Annual review of psychology, 65, 743-771.
 
-* Large, E. W., & Jones, M. R. (1999). The dynamics of attending: How people track time-varying events. Psychological review, 106(1), 119.
+Large, E. W., & Jones, M. R. (1999). The dynamics of attending: How people track time-varying events. Psychological review, 106(1), 119.
 
-* Miall, C. (1989). The storage of time intervals using oscillating neurons. Neural Computation, 1(3), 359-371.
+Miall, C. (1989). The storage of time intervals using oscillating neurons. Neural Computation, 1(3), 359-371.
 
-* Nobre, A. C., Correa, A., & Coull, J. T. (2007). The hazards of time. Current opinion in neurobiology, 17(4), 465-470.
+Nobre, A. C., Correa, A., & Coull, J. T. (2007). The hazards of time. Current opinion in neurobiology, 17(4), 465-470.
 
 
 **Methods**
 
 _Psychophysics_
 
-* Prins, N. (2016). Psychophysics: a practical introduction. Academic Press.
+Prins, N. (2016). Psychophysics: a practical introduction. Academic Press.
 
-* Moore, B. C. (2012). An introduction to the psychology of hearing. Brill.
+Moore, B. C. (2012). An introduction to the psychology of hearing. Brill.
 
 
 _EEG/ MEG_
 
-* Hansen, P., Kringelbach, M., & Salmelin, R. (Eds.). (2010). MEG: an introduction to methods. Oxford university press.
+Hansen, P., Kringelbach, M., & Salmelin, R. (Eds.). (2010). MEG: an introduction to methods. Oxford university press.
 
-* Cohen, M. X. (2014). Analyzing neural time series data: theory and practice. MIT press.
+Cohen, M. X. (2014). Analyzing neural time series data: theory and practice. MIT press.
 
-* Luck, Steven J. "Event-related potentials." (2012).
+Luck, Steven J. "Event-related potentials." (2012).
 
 
 _Statistics_
 
-* Foxe, J., & Weisberg, S. (2011). An R companion to applied regression.
+Foxe, J., & Weisberg, S. (2011). An R companion to applied regression.
 
-* Field, A., Miles, J., & Field, Z. (2012). Discovering statistics using R. Sage publications.
+Field, A., Miles, J., & Field, Z. (2012). Discovering statistics using R. Sage publications.
 
 
 _Methods/ Critics_
 
-* Button, K. S., Ioannidis, J. P., Mokrysz, C., Nosek, B. A., Flint, J., Robinson, E. S., & Munafò, M. R. (2013). Power failure: why small sample size undermines the reliability of neuroscience. Nature reviews neuroscience, 14(5), 365-376.
+Button, K. S., Ioannidis, J. P., Mokrysz, C., Nosek, B. A., Flint, J., Robinson, E. S., & Munafò, M. R. (2013). Power failure: why small sample size undermines the reliability of neuroscience. Nature reviews neuroscience, 14(5), 365-376.
 
-* Vul, E., Harris, C., Winkielman, P., & Pashler, H. (2009). Voodoo correlations in social neuroscience. Perspectives on psychological Science, 4(3), 274-290.
+Vul, E., Harris, C., Winkielman, P., & Pashler, H. (2009). Voodoo correlations in social neuroscience. Perspectives on psychological Science, 4(3), 274-290.
 
-* Ioannidis, J. P. (2019). What have we (not) learnt from millions of scientific papers with P values?. The American Statistician, 73(sup1), 20-25.
+Ioannidis, J. P. (2019). What have we (not) learnt from millions of scientific papers with P values?. The American Statistician, 73(sup1), 20-25.
 
-* Head, M. L., Holman, L., Lanfear, R., Kahn, A. T., & Jennions, M. D. (2015). The extent and consequences of p-hacking in science. PLoS Biol, 13(3), e1002106.
+Head, M. L., Holman, L., Lanfear, R., Kahn, A. T., & Jennions, M. D. (2015). The extent and consequences of p-hacking in science. PLoS Biol, 13(3), e1002106.
 
 
 

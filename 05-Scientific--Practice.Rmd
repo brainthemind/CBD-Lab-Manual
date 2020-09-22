@@ -1,33 +1,58 @@
 # Good scientific practice
 
 **Scientific integrity** 
-We strive to improve our scientific methods and practice every day and never stop learning. 
 
-We ask you to do your best to prevent errors, double check your code and results, avoid common statistical fallacies, and take responsibility for your work. 
+We strive to improve our scientific methods and practice every day and never stop learning. An important criterion for scientific quality is the replicability and objectivity of results, across studies and labs. 
 
-Check your experimental protocols: timing or randomization errors cannot be corrected once the data is recorded, and might result in a huge waste of your time and the team’s money (an MEG experiment costs between 20.000-30.000€). This includes making sure the experiment runs without errors and checking the output of 1–2 pilot participants for timing, randomization, and task-related aspects. 
+To assure that we only publish high quality work, we ask you to do your best to prevent errors, double check your code and results, and avoid common statistical fallacies (see below). You have to take responsibility for your work, towards your collaborators as well as the scientific community. 
 
-Write clean and commented analysis code, check it for errors, and include sanity checks in your analysis. Think carefully about your choices of analysis parameters and test several options. 
+* Check your experimental protocols: timing or randomization errors cannot be corrected once the data is recorded, and might result in a huge waste of your time and the team’s money (an MEG experiment costs between 20.000-30.000€). This includes making sure the experiment runs without errors and checking the output of 1–2 pilot participants for timing, randomization, and task-related aspects. 
 
-We strive to produce objective and reproducible results. Be aware of biases and common statistical fallacies like p-hacking (selecting one significant result out of many), confirmation and publication bias, selective exclusion of participants and many others. Report results as they are, including null-findings. If we always knew the results of our experiments, there would be no point in doing them. 
+* Write clean and commented analysis code, check it for errors, and include sanity checks in your analysis. Think carefully about your choices of analysis parameters and test several options. 
 
-Errors happen. To all of us, over and over again. The first step is of course to try and prevent them, but when you come across one, act on it: check its impact, make sure appropriate corrections are applied, and report it to the collaborators.  
+* Report results as they are, including null-findings. If we always knew the results of our experiments, there would be no point in doing them. 
+
+* Be aware of biases and common statistical fallacies (just to name a few important ones, also see References):
+    * selective exclusion of participants
+    * p-hacking (tweaking parameters until you get a significant result)
+    * confirmation and publication bias 
+   high variability in results due to low power (small samples)
+   
+
+* __Errors happen.__ To all of us, over and over again. The first step is of course to try and prevent them, but when you come across one, act on it: check its impact, make sure appropriate corrections are applied, and report it to the collaborators.  
+
 
 **Documentation**
 
+When you finished a study, or leave the lab, someone else might take over your work or start a related project. It is indespensable that your data and code are well organized and documented, otherwise a lot of efforts will be lost over time. You will see how useful it can be to start based on the work that others did before you (experiment code, analysis scripts), please carry on with that effort (remember, one of the core values of the team is give-give).
+
 
 **Intellectual ownership and representation of the team**
+
 Always acknowledge everyone who contributed to your work (including supervisors, engineers, post docs) on slides and reports. 
 
 Anything that leaves the lab (written reports, presentations, abstracts, papers) needs to be shown to the supervisors and co-authors before, at least 3 working days (for slides and abstracts) and 5 working days (for reports) before the deadline. Large projects like papers and PhD theses need to be discussed and revised several times before submission. The earlier you send your work, the better the feedback you will get. 
 
 Cite all references you used and never copy sentences or passages from other people’s work. Plagiarism will be sanctioned by your committee (worsen your grade up to leading to rejection of your work in bad cases) and the scientific community (rejection of your work, legal consequences in very bad cases). 
 
+
 **Open Science**
 
+To increase replicability of cognitive neuroscience studies, and allow for large-scale approaches, the community currently shifts towards open data and code. Sharing data and code simply becomes a requirement from journals and grant agencies, but it should also become a goal to increase your visibility in the community and allow you to get feedback from researchers outside the lab. 
 
-**Links and References**
+While we strongly advocate for open science, it makes it all the more important to be very carefull in crediting contributions and attributing ownership, metrics that count on the highly competitive academic job market:
 
-<https://elifesciences.org/articles/45261>
-<https://gate.nmr.mgh.harvard.edu/wiki/whynhow/images/e/ef/Vul_et_al_orig_paper.pdf>
-<https://www.nature.com/articles/nrn3475>
+* To protect participants' personal rights, never share non-anonymized data, and always check your ethics protocol before making data public. 
+
+* Be aware that designing a good paradigm and solid analyses is hard work that goes far beyond efficient coding. Make sure that all the sweat and thought you and your collaborators put into a study desing and analysis are well credited for, and do not share any work without the agreement of everyone involved. Also think carefully about the time point to share, for instance you might not want to publicly post an experimental paradigm before you finished data collection. 
+
+
+**References**
+
+Button, K. S., Ioannidis, J. P., Mokrysz, C., Nosek, B. A., Flint, J., Robinson, E. S., & Munafò, M. R. (2013). Power failure: why small sample size undermines the reliability of neuroscience. Nature reviews neuroscience, 14(5), 365-376.
+
+Vul, E., Harris, C., Winkielman, P., & Pashler, H. (2009). Voodoo correlations in social neuroscience. Perspectives on psychological Science, 4(3), 274-290.
+
+Ioannidis, J. P. (2019). What have we (not) learnt from millions of scientific papers with P values?. The American Statistician, 73(sup1), 20-25.
+
+Head, M. L., Holman, L., Lanfear, R., Kahn, A. T., & Jennions, M. D. (2015). The extent and consequences of p-hacking in science. PLoS Biol, 13(3), e1002106.
