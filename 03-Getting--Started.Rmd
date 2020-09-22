@@ -9,9 +9,9 @@ What it means:
 The Cognitive Neuroimaging Unit [UNICOG](http://www.unicog.org/) is a research unit, which  is part of two major institutions: the "Institut National de la Santé et de la Recherche Médicale" ([INSERM](https://www.inserm.fr/) for short) and the "Comissariat à l'Energie Atomique et aux Energies Alternatives" ([CEA](http://www.cea.fr/) for short). 
 UNICOG is hosted by [NeuroSpin](http://joliot.cea.fr/drf/joliot/Pages/Entites_de_recherche/NeuroSpin.aspx), which refers to the physical building located at Gif s/ Yvette where our lab is. UNICOG is also affiliated to the [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en).
 
-The director of NeuroSpin and of UNICOG is Prof Stanislas Dehaene (College de France). 
+The director of NeuroSpin and of UNICOG is Prof. Stanislas Dehaene (College de France). 
 
-The [Cognition & Brain Dynamics](https://brainthemind.com/) lab is one of the five labs within UNICOG. 
+The [Cognition & Brain Dynamics lab](https://brainthemind.com/) is one of the five labs within UNICOG. 
 
 For general administrative guidance and human resources help, please be in touch with [Vanna Santoro](giovanna.santoro@cea.fr). 
 
@@ -19,7 +19,7 @@ The contact information of everyone at NeuroSpin can be found [here](http://www.
 
 **Resources**
 
-NeuroSpin is a neuroimaging center with great tools on site, and lots of technical and methodological knowledge available. NeuroSpin has a [wiki](http://www.neurospin-wiki.org/pmwiki/) where you can find a lot of practical information.**Please check it often as it can answer many  questions you may have from how to pay for a conference to who is in charge of the IT, how to use trigger with MEG or how to analyze DTI. Also, please update information if it is outdated to keep it alive!**
+NeuroSpin is a neuroimaging center with great tools on site, and lots of technical and methodological knowledge available. NeuroSpin has a [wiki](http://www.neurospin-wiki.org/pmwiki/) where you can find a lot of practical information.**Please check it often -- it can answer many  questions you may have, from how to pay for a conference to who is in charge of the IT, how to use trigger with MEG or how to analyze DTI. Also, please update information if it is outdated to keep it alive!**
 
 Cognition & Brain Dyanmics has a website [http://brainthemind.com/] in which we would like each member to be listed and briefly introduced. Please, send us a short snippet describing your interests and prior work, plus a picture (square format with good resolution) so we can add you.
 
@@ -33,10 +33,22 @@ UNICOG meetings are weekly, Friday 3pm, room 183. This is the place to exchange 
 
 Cognition & Brain Dynamics meeting are weekly, Tue 1:30 pm, room 2033 (Claude Bernard) 
 [Brainthemind calendar](https://calendar.google.com/calendar?cid=bzkwaWRmZWtidWdsbmJkNm1lNm51MjExanNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
-Every member of the team presents their project at different stages. We also do journal clubs and round tables to which everyone contributes by preparing a slide. Take the team meeting as an opportunity to ask questions, express doubts,  learn from feedback and interact on deep questions to prepare you for presenting your work to the outside world. 
+Every member of the team presents their project at different stages. We also do journal clubs and round tables to which everyone contributes. Take the team meeting as an opportunity to ask questions, express doubts, learn from feedback and interact on deep questions to prepare you for presenting your work to the outside world. 
 
 For 2019-20, the organizer is Yvan.
 For 2020-21, the organizer is Harish.
+
+**Working hours**
+
+NeuroSpin is open from 7am (?) to 8:30pm on weekdays, and has some fixed closing dates (check the calendar). 
+In the lab, we do not enforce rigid working hours, besides asking you to be present for scheduled meetings. Everyone has their own chronobiology - we will check on progress of your project, but not count your hours. 
+Occasionally working from home is ok, especially so during CovidTimes, but we expect you to inform your supervisor and be reachable by email/ slack.
+
+You are expected to reply to emails personally addressed to you during one working day. We encourage flexible working schedules, which can result in late or weekend emails, but do not feel obliged to answer outside of your working hours (unless something is really urgent). 
+
+Depending on the duration of your contract, you can take some number of holidays. Please check with your supervisors about the dates, put them in the team calendar, and notify human ressources. 
+
+If you are sick, please also let us know and also inform you human ressource manager. 
 
 **Access to Journals**
 
@@ -44,32 +56,70 @@ Please ask [Vanna](giovanna.santoro@cea.fr) for this information.
 
 **Tools**
 
-_**To communicate and share**_: 
+Python is the language of choice in the team (free, open source); we also use Matlab for different purposes. Please consult the Neurospin wiki for installation / license questions, as well as the respective toolboxes and the internet. There are many good general tutorials out there. 
+For specific needs, build on the expertise of the lab and ask for existing code, examples, or stimuli. 
+
+- Programming lab experiments:
+    - Psychtoolbox(Matlab-based)
+    - PsychoPy
+  
+- Online experiments:
+    - Gorilla, jsPsych
+    - Expyriment
+
+- Analyses of behavioral data:
+    - R
+    - Matlab
+  
+- M/EEG analyses:
+    - MNE Python
+    - FieldTrip
+    - Freesurfer (MRI)
+  
+
+**To communicate and share**
+
 Please ask a PI to be added to these channels
 
-Slack [Cognition & Brain Dynamics]  
-Google Drive[Cognition & Brain Dynamics]  
-Google Hangout  
+- Google Drive[Cognition & Brain Dynamics]: sharing documents, preregistrations, project reports, slides, ..
+- Slack [Cognition & Brain Dynamics, there is also a NeuroSpin slack]: exchange with your project collaborators (dedicated channels), communicate organisational matters (especially in pandemic times), share papers and discoveries, be social
 Zoom  
   
 
-_**To open science**_:  
+**To open science**
+
 [github](https://github.com/brainthemind)  
-[osf](https://osf.io/)  
-academic twitter!  
+[osf](https://osf.io/)
+[contribute to MNE python](https://mne.tools/stable/install/contributing.html)
+academic twitter [@virginie_vw, @herbstso]
 
-**Acknowledgements**
-
-This work was funded by grant XXX to VvW and YYY to SH.
-
-UNIACT 
-
-This work was performed on a platform of France Life Imaging network partly funded by the grant “ANR-11-INBS-0006 ” or “Partly supported by FLI (ANR-11-INBS-0006)”.
- 
-"This work has received funding support from the ERPT equipment program of the Leducq Foundation."
 
 **Library**
 
 We have books onsite and also in electronic format in our shared drive.
 If you think that we need a book, please bring it up during our lab meeting.
 
+
+**Computers, IT infrastructure, materials**
+
+Check the NeuroSpin wiki for ample information about IT infrastructure and contacts, and call the 33 from any landline phone in case of issues. Office materials can be found in room 2010 (?), opposite of the copy machine. 
+
+
+<!-- I didn't understand the purpose of this, therefore commented out-->
+<!-- **Acknowledgements** -->
+
+<!-- This work was funded by grant XXX to VvW and YYY to SH. -->
+
+<!-- UNIACT  -->
+
+<!-- This work was performed on a platform of France Life Imaging network partly funded by the grant “ANR-11-INBS-0006 ” or “Partly supported by FLI (ANR-11-INBS-0006)”. -->
+
+<!-- "This work has received funding support from the ERPT equipment program of the Leducq Foundation." -->
+
+**Outside the lab**
+
+[For orientation/ living in France/ language classes:] (https://www.science-accueil.org/)
+
+Social events: check the NeuroSpin-wiki and ask other students about the monthly lab picknicks, after-work beers, post-labmeeting drinks, neurobreakfast (unfortunately all compromised by the pandemic), ..
+
+We also go on lab outings occasionally, feel free to evoke/ organise an opportunity. 

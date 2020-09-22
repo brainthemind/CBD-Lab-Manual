@@ -9,14 +9,6 @@ If you are reading this lab manual, you have likely just joined the lab recently
 
 If you are a current member, please, frequently refer to it for updated contents and if you have suggestions for improvement or new stuff, please let the PIs know or bring it up during our next meeting!
 
-v.0.01: January 2020
-Repository: https://github.com/brainthemind/CBD-Lab-Manual
-
-For edits and updates, use:
-**R** (R Core Team 2017) 
-**bookdown** package [@R-bookdown] 
-**knitr** [@xie2015].
-
 
 **Team **
 
@@ -24,17 +16,16 @@ Joining a research team means contributing your critical thinking, your skills, 
 
 Every lab member plays a vital role in the functioning from undergraduate students to early career researchers, support staff, and principal investigators (PIs)!
 
-Providing you with rules and procedures is to ensure that current efforts reset on past success and failures and pushes as
-far as possible in better directions. Novel arrivals should not need to re-invent anything, you should not be starting your experiments from scratch, but build on what previous researchers have already achieved.
+Providing you with rules and procedures is to ensure that current efforts build on past success and failures. Novel arrivals should not need to re-invent anything, you should not be starting your experiments from scratch, but build on what previous researchers have already achieved.
 
 
 **Who's who **
 
 **Permanent lab members:** 
 
-**Virginie van Wassenhove, Principal investigator** Research director (equivalent DR), CEA
+**Virginie van Wassenhove, Principal investigator**, Research director (equivalent DR), CEA
 
-**Sophie Herbst, Junior PI** researcher (equivalent CR), CEA
+**Sophie Herbst, Junior PI**, researcher (equivalent CR), CEA
 
 **Leila Azizi, Research Engineer**, Inserm
 
