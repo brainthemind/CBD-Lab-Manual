@@ -1,7 +1,6 @@
 
-# Reading List
+Reading List
 
-https://www.nobelprizemedicine.org/selecting-laureates/history/the-nobel-prizes-in-the-field-of-neuroscience/#:~:text=The%20Nobel%20Prizes%20in%20the%20field%20of%20neuroscience%2Dfrom%20Camillo,Moser%20and%20Edvard%20I%20Moser&text=No%20less%20than%2017%20Nobel,no%20less%20than%2040%20laureates.
 
 #Cognitive Neuroscience# 
 
@@ -10,7 +9,14 @@ https://www.nobelprizemedicine.org/selecting-laureates/history/the-nobel-prizes-
 #Cognition# 
 
 *Marr
-*
+
+*Gallistel
+
+#Computations# 
+
+*Bastos, A. M., Usrey, W. M., Adams, R. A., Mangun, G. R., Fries, P., & Friston, K. J. (2012). Canonical microcircuits for predictive coding. Neuron, 76(4), 695-711.
+
+*Carandini
 
 
 #Neuroscience# 
@@ -45,22 +51,31 @@ some criticims
 _Timing_
 *van Wassenhove, V., Herbst, S. K., & Kononowicz, T. W. (2019). Timing the Brain to Time the Mind: Critical Contributions of Time-Resolved Neuroimaging for Temporal Cognition. Magnetoencephalography: From Signals to Dynamic Cortical Networks, 855-905.
 
+https://www.nobelprizemedicine.org/selecting-laureates/history/the-nobel-prizes-in-the-field-of-neuroscience/#:~:text=The%20Nobel%20Prizes%20in%20the%20field%20of%20neuroscience%2Dfrom%20Camillo,Moser%20and%20Edvard%20I%20Moser&text=No%20less%20than%2017%20Nobel,no%20less%20than%2040%20laureates.
 
 
-#Seminal papers on timing # 
+
+
+#Papers on time and timing # 
 
 Selection of resources, networking, paper database: http://timingforum.org/
 
-+Treisman, M. (1963). Temporal discrimination and the indifference interval: Implications for a model of the" internal clock". Psychological Monographs: General and Applied, 77(13), 1.  
+_Theoretical_
 
-+Buhusi, C. V., & Meck, W. H. (2005). What makes us tick? Functional and neural mechanisms of interval timing. Nature reviews neuroscience, 6(10), 755.
+*Michon, J. A. (1998). On the modularity of time. Teorie e Modelli, 3, 7-32.
 
-+Allman, M. J., Teki, S., Griffiths, T. D., & Meck, W. H. (2014). Properties of the internal clock: first-and second-order principles of subjective time. Annual review of psychology, 65, 743-771.
+*Large, E. W., & Jones, M. R. (1999). The dynamics of attending: How people track time-varying events. Psychological review, 106(1), 119.
 
-+Large, E. W., & Jones, M. R. (1999). The dynamics of attending: How people track time-varying events. Psychological review, 106(1), 119.
+_Internal Clock_
+
+*Treisman, M. (1963). Temporal discrimination and the indifference interval: Implications for a model of the" internal clock". Psychological Monographs: General and Applied, 77(13), 1.  
+
+*Buhusi, C. V., & Meck, W. H. (2005). What makes us tick? Functional and neural mechanisms of interval timing. Nature reviews neuroscience, 6(10), 755.
+
+*Allman, M. J., Teki, S., Griffiths, T. D., & Meck, W. H. (2014). Properties of the internal clock: first-and second-order principles of subjective time. Annual review of psychology, 65, 743-771.
 
 
-Miall, C. (1989). The storage of time intervals using oscillating neurons. Neural Computation, 1(3), 359-371.
+*Miall, C. (1989). The storage of time intervals using oscillating neurons. Neural Computation, 1(3), 359-371.
 
 
 
