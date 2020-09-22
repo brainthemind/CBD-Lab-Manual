@@ -11,7 +11,7 @@ Joining a research team means contributing your critical thinking, your skills, 
 
 Every lab member plays a vital role in the functioning from undergraduate students to early career researchers, support staff, and principal investigators (PIs)!
 
-Providing you with rules and procedures is to ensure that current efforts build on past success and failures. Novel arrivals should not need to re-invent anything, you should not be starting your experiments from scratch, but build on what previous researchers have already achieved.
+Providing you with rules and procedures is to ensure that current efforts build on past successes and failures. Newbies should not need to re-invent anything, you should not be starting your experiments from scratch, but build on what previous researchers have already achieved.
 
 
 **Who's who: **
@@ -27,4 +27,3 @@ Should you not find yourself there or want to update your profile, please send a
 **Sophie Herbst, Junior PI**, Researcher (equivalent CR), CEA
 
 **Leila Azizi, Research Engineer**, Inserm
-
