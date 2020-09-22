@@ -29,7 +29,7 @@ We try to foster collaborative opportunities that can be fundamental, multidisci
 
     We are not thinking machines that feel; 
     rather, we are feeling machines that think
-    -Antonio Damasio**
+    -Antonio Damasio
 
 
 **Collegiality:** we strive to make the lab a give-give place in which we all learn from each other, irrespective of experience level. Science is hard enough, foster being constructive and collaborative, not destructive and competitive!
@@ -45,4 +45,4 @@ We try to foster collaborative opportunities that can be fundamental, multidisci
 **Scientific Integrity:** in science, we never stop learning, and improve our scientific methods and practice every day. Errors do happen to everyone -- we have to be vigilant, question and double-check our results, and train ourselves to avoid common falacies. 
 Everyone has to take responsibility for their work, and we expect you to be honest, also about limitations and errors. 
 
-**Open Science:** replicability is key for scientific discoveries, and there are many benefits from openly sharing code and data. This requires careful acknowledgement of individual contributions, and a will hopefully change the metrics we use to quantify scientific excellence. 
+**Open Science:** replicability is key for scientific discoveries, and there are many benefits from openly sharing code and data. This requires careful acknowledgement of individual contributions, and it  will hopefully change the metrics we use to quantify scientific excellence. 
