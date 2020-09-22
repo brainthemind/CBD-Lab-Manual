@@ -14,7 +14,11 @@ Every lab member plays a vital role in the functioning from undergraduate studen
 Providing you with rules and procedures is to ensure that current efforts build on past successes and failures. Newbies should not need to re-invent anything, you should not be starting your experiments from scratch, but build on what previous researchers have already achieved.
 
 
-**Who's who **
+**Who's who: **
+
+Please check the lab's website for an up-to-date list of lab members:
+https://brainthemind.com/team/
+Should you not find yourself there or want to update your profile, please send a textsnippet/ photo to the PIs. 
 
 **Permanent lab members:** 
 
@@ -23,6 +27,3 @@ Providing you with rules and procedures is to ensure that current efforts build 
 **Sophie Herbst, Junior PI**, Researcher (equivalent CR), CEA
 
 **Leila Azizi, Research Engineer**, Inserm
-
-Please check the lab's website for an up-to-date list of [lab members](https://brainthemind.com/team/)
-Should you not find yourself there or want to update your profile, please send a textsnippet/ photo to the PIs.
