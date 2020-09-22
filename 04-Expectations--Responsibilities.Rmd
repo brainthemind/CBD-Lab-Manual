@@ -14,7 +14,7 @@ If there are any personal or inter-personal issues in the team, please speak to 
 
 You are here to join us in every aspect of the exciting endeavour to better understand the human brain and mind! We foster curiosity, enthusiasm, questioning, motivation, reading as much as one can, telling each other where we may be wrong, and learning what we do not know. Science thrives on lively discussions that constantly evolve, new insights, and constant adjustments in our thinking. 
 
-The more every team member contributes to the discussions (for instance in the team meeting), the better weall become! 
+The more team members contribute to  discussions (e.g. in team meetings), the better we'll become! 
 
 
 **Scientific integrity**
@@ -23,13 +23,13 @@ We strive to improve our scientific methods and practice every day.
 
 We ask you to do your best to prevent errors, double check your code and results, make sanity checks a rule, avoid common statistical fallacies, and take responsibility for your work. 
 
-Checking your experimental protocols: timing or randomization errors cannot be corrected once the data has been recorded, and such error can result in a huge waste of your time and of the team’s money (an MEG experiment costs ~ 30.000€). Hence, prior to conducting your experiment, make sure the code runs without errors, obsessively check the outputs of 1 or 2 pilot participants for timing, randomization, and task-related aspects.
+Checking your experimental protocols: timing or randomization errors cannot be corrected once the data has been recorded, and such error can result in a huge waste of everyone's time and of the PI's funding (e.g. bear in mind an MEG experiment costs ~ 30.000€). Hence, prior to conducting an experiment, make sure the code runs without errors, obsessively check the outputs of 1 or 2 pilot participants for timing, randomization, and task-related issues to be corrected.
 
 Write clean and commented analysis code, check for errors, and include sanity checks in your analysis. Think carefully about your choices of analysis parameters and test several options. 
 
-We strive to produce objective and reproducible results. Be aware of biases and common statistical fallacies like p-hacking (selecting one significant result out of many), confirmation and publication bias, selective exclusion of participants and many others (see the bibliography section for references). 
+We strive to produce objective and reproducible results. Be aware of biases and common statistical fallacies like p-hacking (selecting one significant result out of many), confirmation bias, selective exclusion of participants and many others (see the bibliography section for references). 
 
-Report results as they are, including null-findings. If we always knew the results of our experiments, there would be no point in doing them. 
+Report results as they are, including null-findings. If we always knew the results of our experiments, there would be no point in doing them!
 
 Errors happen. To all of us, over and over again. The first step is of course to try and prevent them, but when you come across one, act on it: check its impact, make sure appropriate corrections are applied, and report it to your collaborators as soon as you can.  
 
@@ -38,9 +38,18 @@ Errors happen. To all of us, over and over again. The first step is of course to
 
 Always acknowledge everyone who contributed to your work (including supervisors, engineers, post docs) on slides and reports. 
 
-Anything that leaves the lab (written reports, presentations, abstracts) has to be shown to the supervisors and co-authors before, leaving enough time for at least one round of revisions before the deadline. Big projects like papers and PhD theses need to be discussed and revised several times before submission. The earlier you send your work, the more and better feedback you will get.
+Anything that leaves the lab (written reports, presentations, abstracts) has to be shown to the supervisors and co-authors beforehand. You are responsible for leaving enough time for at least one round of revisions before the deadline on any work.
 
 Cite all references you used and never copy sentences or passages from other people’s work, without explicitily acknowledging. Plagiarism will be sanctioned by your committee (worsen your grade up to leading to rejection of your work in bad cases) and the scientific community (rejection of your work with legal consequences in very bad cases). Plagiarism and intellectual dishonesty are a sure way to loose the trust and respect of your colleagues.
+
+
+**Scientific outcomes**
+
+Academic work (from midterm reports to final written theses) have to be approved by your supervisor before submission. If your supervisor does not get to read and approve before submission, your university or school will anyway require our confidential evaluation of your work. Ideally, we wish to continuously discuss your advances and the write up of your reports. Minimally, we wish to receive your Master reports 2 weeks before the deadline, and your PhD thesis, one month before the submission to your doctoral committee. Regarding the oral presentations, you are expected to rehearse in front of the team at least one week before the defense (you should rehearse a few times before your PhD defense ;-)
+
+Conference abstracts (posters, talks) and proceedings: feel free to bring up opportunities to present your work in different  seek approval of all co-authors before submission, 
+
+Peer-reviewed articles in international or national journals:
 
 
 **Different stages of expertise**
